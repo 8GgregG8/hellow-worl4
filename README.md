@@ -1,2 +1,0 @@
-# wojna
-swiat
